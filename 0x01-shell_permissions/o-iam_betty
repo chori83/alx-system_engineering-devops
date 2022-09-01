@@ -1,0 +1,2 @@
+#!/bin/bash
+tail -1 o-iam_betty | wc -c
